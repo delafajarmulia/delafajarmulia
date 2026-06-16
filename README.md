@@ -19,10 +19,10 @@ fun_fact: "Aku suka kucing, tapi gamau melihara kucing"
 
 ## What I Do
 
-- Full-Stack & Intelligent Systems — Building robust web applications using Next.js, TypeScript, and modern ORMs (Prisma/Drizzle), seamlessly integrated with RAG (Retrieval-Augmented Generation)
-- AIoT & Embedded Engineering — Bridging the gap between hardware and software by developing smart systems with ESP32, ranging from intelligent voice assistants to real-time environmental monitoring
-- Geospatial & Smart Monitoring — Designing end-to-end early warning systemsfeaturing GIS interactive mapping (Leaflet), Supabase backend, and AI-driven data validation
-- Innovation & Tech Competitions — Transforming complex technical ideas into working prototypes for national-level technology championships
+- Full-Stack & Intelligent Systems — Building modern web applications with Next.js, TypeScript, and relational databases, while exploring AI-powered features through RAG and LLM integration
+- AIoT & Embedded Engineering — Developing intelligent systems with ESP32, sensors, and real-time data processing to bridge software and hardware
+- Geospatial Intelligence & Early Warning Systems — Designing GIS-powered monitoring and early warning systems using spatial data, interactive mapping, and intelligent validation to support disaster mitigation and environmental awareness
+- Innovation & Rapid Prototyping — Transforming technical ideas into functional prototypes through competitions, research projects, and experimental builds
 
 ## GitHub Stats
 
