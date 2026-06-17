@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/delafajarmulia">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Software+Engineer;IoT+Platform+%26+DevOps;Embedded-to-Cloud+Systems;CVE+Author+%7C+Open+Source+Maintainer" alt="Typing SVG" />
-  </a>
-</div>
-
 ## About Me
 
 ```yaml
