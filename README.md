@@ -8,7 +8,7 @@ education: Politeknik Negeri Semarang — Teknologi Rekayasa Komputer
 focus:
   - IoT Platform Engineering (coming soon)
   - Full-Stack Web Development
-fun_fact: "Aku suka kucing, tapi gamau melihara kucing"
+fun_fact: "I accidentally turn every project into a new learning rabbit hole 🕳️🐇"
 ```
 
 ## What I Do
