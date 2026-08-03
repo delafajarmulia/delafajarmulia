@@ -22,11 +22,11 @@ fun_fact: "I accidentally turn every project into a new learning rabbit hole ğŸ•
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=delafajarmulia&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=delafjr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delafajarmulia&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=delafajarmulia&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=delafjr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delafajarmulia&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
   </picture>
 </p>
